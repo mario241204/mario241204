@@ -44,8 +44,21 @@ Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo:
 
 ---
 
+### 🎓 Certificaciones & Formación AWS
+<p align="left">
+  <a href="https://www.credly.com/badges/b91d7ff2-1b6c-442c-ac3a-9bd59225b6e4" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/d59655ec-c62b-4d2a-b929-49ad80b747ba" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
+  </a>
+</p>
+
+> *Insignias obtenidas a través de la formación oficial de AWS Academy.*
 ### 🔗 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-c%C3%A1rcel-navarro-a58ab7314/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mario_carcel24)
+
+---
 
 *Próximamente: Portfolio personal en desarrollo 🚀*
